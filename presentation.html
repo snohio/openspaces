@@ -6,13 +6,13 @@
     <style>
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
       @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap);
       @import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700,400italic);
 
-      body { font-family: 'Inconsolata'; }
+      body { font-family: 'Roboto Slab'; }
       h1 {
-        font-family: 'Roboto Slab';
-        font-weight: normal;
+        font-family: 'SUSE';
+        font-weight: bold;
 				text-align: center;
       }
 			h2, h3 {
@@ -24,7 +24,16 @@
 				font-size: small;
 				text-align: left;
 			}
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-code, .remark-inline-code { font-family: 'SUSE Mono'; }
+      .openspace
+      {
+        h1 {
+          font-family: 'SUSE';
+          font-weight: bold;
+				  text-align: center;
+          font-size-adjust: 1.25;
+        }
+      }
 			.foo
 			{
         background: hsl(0, 0%, 15%);
@@ -35,9 +44,15 @@
   <body>
     <textarea id="source">
 
+class: foo, openspace
+# OPEN<BR>SPACES<BR>
+### <br>One of the Best Things about DevOpsDays!
+
+???
+
+---
 class: foo, center
-# Utilizing Chef Inspec
-### Across Your Entire DevOps Lifecycle.
+# Who is this guy?
 <img src="./assets/OrlandoDevOps2-06.jpg" width="450">
 <br>
 <img src="./assets/myphoto-socialbook-440.png" align="right" width="150")>
@@ -45,22 +60,6 @@ class: foo, center
 **Mike Butler**<br>
 Orlando DevOps Community group - Co Organizer<br>
 Solutions Architect - Progress Chef<br>
-#### 1.0.0
-???
-* Hello and Welcome to Orlando Code Camp and this presentation of Utilizing Chef Inspec Across your Entire DevOps Lifecycle.
-* Also, I like to call this "Who put the Sec in the DevSecOps i ops"
-* My name is Mike Butler. I am a Solutions Architect for Progress Chef and also a co-organizer for Orlando DevOps Community Group.
-* I have been with Progress Chef for about two and a half years. Prior to coming to Chef, I was the product owner and manager for the Chef deployment at Optum Technologies (the IT part of United HealthGroup).
-* In this presentation we are going to look at how you can utilize Chef Inspec across your DevOps Lifecycle. 
----
-class: center, foo, middle
-<img src="https://t3.ftcdn.net/jpg/04/31/82/90/360_F_431829099_KAjG63az6DIdFmB1lqrOtAOq0mB17prH.jpg" class="center" width="750">
-???
-* First, I thought it would be fun to start off with Q & A! But I am the one with Questions.
-* Who would consider themselves as being on the DevOps Spectrum (meaning doing some for of Operational tasks for an Application or Platform and use Automation to support that, or could be Developers that have to maintain some aspects of the the platform?)
-* How many people are familiar with Chef or other Configuration as Code / IaC tools.
-* How many people do testing of not just their Application code, but the Platform configuration.
-* Who has heard of the Compliance as Code?
 ---
 <img src="https://www.picpedia.org/handwriting/images/agenda.jpg" class="center" width="700">
 
@@ -102,7 +101,7 @@ class: center, middle, foo
 * `Test-Kitchen` is a tool that we use to apply that application code with the configuration code and tested against that Compliance Profile. We'll talk more about that in a bit.
 ---
 class: foo
-## CIS Benchmark for Ubuntu 20.04
+## CIS Benchmark for SUSE 20.04
 <br>
 ### Example:
 ```ruby
