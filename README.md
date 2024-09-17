@@ -27,3 +27,12 @@ If the topic is written on a sitcky note and placed on the board by an attendee,
 3. Initial the sticky note in the corner indicating it has been added on the form and put it back on the Topics board.
 
 > My suggestion would be to take a minute between each speaker to get caught up.
+
+## Links to the QR Codes
+
+- [SUBMIT JPG](./assets/qr-submit.jpeg)
+- [SUBMIT PNG](./assets/qr-submit.png)
+- [SUBMIT SVG](./assets/qr-submit.svg)
+- [VOTE JPG](./assets/qr-vote.jpeg)
+- [VOTE PNG](./assets/qr-vote.PNG)
+- [VOTE SVG](./assets/qr-vote.svg)
