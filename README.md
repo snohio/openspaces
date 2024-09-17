@@ -6,7 +6,7 @@ Open Spaces presentation for DevOpsDays Tampa Bay
 
 [presentation](presentation.html)
 
-## Submission Process
+## Submission Processing Process
 
 Individuals will do either:
 
