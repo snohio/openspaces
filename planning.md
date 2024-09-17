@@ -79,9 +79,13 @@ In no particular order
 
 ### Slide 16 - Submit your topics (Post it / QR Code)
 
+[https://forms.gle/C7cnL5kwd651o26h6](https://forms.gle/C7cnL5kwd651o26h6)
+
 ---
 
 ### Slide 17 - We're going to vote
+
+[https://forms.gle/3rFrVwwrTKDX8ebT9](https://forms.gle/3rFrVwwrTKDX8ebT9)
 
 ### Slide 18 - Take Notes
 
