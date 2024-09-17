@@ -43,5 +43,5 @@ If the topic is written on a sitcky note and placed on the board by an attendee,
 > [https://forms.gle/3rFrVwwrTKDX8ebT9](https://forms.gle/3rFrVwwrTKDX8ebT9)
 
 - [VOTE JPG](./assets/qr-vote.jpeg)
-- [VOTE PNG](./assets/qr-vote.PNG)
+- [VOTE PNG](./assets/qr-vote.png)
 - [VOTE SVG](./assets/qr-vote.svg)
