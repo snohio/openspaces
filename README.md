@@ -1,4 +1,4 @@
-# openspaces
+# DevOpsDays Tampa Bay - Open Spaces
 
 Open Spaces presentation for DevOpsDays Tampa Bay
 
@@ -28,11 +28,20 @@ If the topic is written on a sitcky note and placed on the board by an attendee,
 
 > My suggestion would be to take a minute between each speaker to get caught up.
 
-## Links to the QR Codes
+## Links to the Google Forms and QR Codes
+
+### Submission Form
+
+> [https://forms.gle/C7cnL5kwd651o26h6](https://forms.gle/C7cnL5kwd651o26h6)
 
 - [SUBMIT JPG](./assets/qr-submit.jpeg)
 - [SUBMIT PNG](./assets/qr-submit.png)
 - [SUBMIT SVG](./assets/qr-submit.svg)
+
+### Voting Form
+
+> [https://forms.gle/3rFrVwwrTKDX8ebT9](https://forms.gle/3rFrVwwrTKDX8ebT9)
+
 - [VOTE JPG](./assets/qr-vote.jpeg)
 - [VOTE PNG](./assets/qr-vote.PNG)
 - [VOTE SVG](./assets/qr-vote.svg)
