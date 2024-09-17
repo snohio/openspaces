@@ -22,10 +22,13 @@ In no particular order
 
 ### Slide 1 - Title Slide
 
+* Vamp for 15 seconds
+
 ### Slide 2 - Who Am I
 
-* Mike Butler - Solution Architect for Progress Chef
 * I am from Orlando and one of the co-organizers for the Orlando DevOps Community Group.
+* I am a Solution Architect for Progress Chef
+* I also am a Mentor for my sons FIRST Robotics Team
 * I am a firm believer in utilizing Agile DevOps practices and principles
 * I also believe in treating all of your daily work in an As Code approach! But that is a different presentation.
 
@@ -64,7 +67,7 @@ In no particular order
 
 ### Slide 11 - Bring Your Best Self
 
-### Slide 12 - My thoughts as to why they are great 1
+### Slide 12 - My thoughts as to why they are great
 
 ---
 
