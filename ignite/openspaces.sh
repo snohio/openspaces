@@ -23,14 +23,7 @@ cd $SCRIPT_DIR
 
 cat > /tmp/$$ <<EOF
 [
-    {
-      "filename": "openspaces.md",
-      "attr":
-      {
-	"data-autoslide": 5000,
-	"data-background-image": "resources/images/chef-after-dark.png"
-      }
-    },
+
 EOF
 
 i=1
