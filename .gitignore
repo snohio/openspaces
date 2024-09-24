@@ -1,7 +1,0 @@
-node_modules
-bower_components
-
-index.html
-.gitignore
-slides/list.json
-slides/*.html
