@@ -10,20 +10,17 @@ SLIDES=${1:-20}
 
 cd $SCRIPT_DIR
 
-# [
-#     "index.md",
-#     {
-#         "filename": "slide-title.md",
-#         "attr": {
-#             "data-background": "#ff0000"
-#         }
-#     }
-# ]
-
-
 cat > /tmp/$$ <<EOF
 [
-
+    {
+      "filename": "openspaces.md",
+      "attr":
+      {
+        "data-autoslide": 5000,
+        "data-background": "#fffff",
+        "data-background-image": "resources/images/dod-tb-banner.png"
+      }
+    },
 EOF
 
 i=1
